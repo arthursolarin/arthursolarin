@@ -8,7 +8,7 @@ desenvolvimento de banco de dados
 gestao de pessoas
 ux design
 conceitos de hardware ( visando computadores dispositivos, wifi e tambem sobre software)
-logica de programacao
+logica de programaçao
 
 <!---
 arthursolarin/arthursolarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
