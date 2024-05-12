@@ -1,4 +1,4 @@
-oi , meu nome e Arthur!! 
+                                                       oi , meu nome e Arthur!! 
 
 📖estudando front-end
 
@@ -14,15 +14,16 @@ oi , meu nome e Arthur!!
 ##
 
      
-<div>    <picture>
+<div>    
+  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=arthursollar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=arthursollar&show_icons=true&theme=gradient"
+    media="(prefers-color-scheme: gradient)" 
     locale="(pt-br)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=arthursollar&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme:gradient), (prefers-color-scheme: no-preference)"
      locale="(pt-br)"
             />
   <img src="https://github-readme-stats.vercel.app/api?username=arthursollar&show_icons=true"  locale="(pt-br)"/>
