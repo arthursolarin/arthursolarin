@@ -5,9 +5,9 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="arthur-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Rafa-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Rafa-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 
@@ -41,4 +41,6 @@
 </div>
 <div>
   
-< img src="https://picrew.me/share?cd=X4kwNYB9Eo"/></div>
+![download20240500200235](https://github.com/arthursolarin/arthursolarin/assets/127884473/ee3a7967-e34b-49a7-b1be-7829ff663c24)
+
+</div>
