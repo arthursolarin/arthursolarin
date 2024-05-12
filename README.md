@@ -24,10 +24,21 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=arthursollar&show_icons=true"
     media="(prefers-color-scheme:gradient), (prefers-color-scheme: no-preference)"
-     locale="(pt-br)"
-            />
+     locale="(pt-br)"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=arthursollar&show_icons=true"  locale="(pt-br)"/>
 
 
 </picture>
 </div>
+
+
+##
+ 
+ 
+ <div>
+<img src= https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white/>
+</div>
+<div>
+  
+< img src="https://picrew.me/share?cd=X4kwNYB9Eo"/></div>
