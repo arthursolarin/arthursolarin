@@ -37,10 +37,8 @@
  
  
  <div>
-<img src= https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white/>
+
 </div>
 <div>
   
 
-![download20240500200235](https://github.com/arthursolarin/arthursolarin/assets/127884473/ee3a7967-e34b-49a7-b1be-7829ff663c24) 
-</div>
